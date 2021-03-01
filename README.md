@@ -9,9 +9,9 @@ Soal ujian dapat diakses melalui link dibawah ini
 Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam mengerjakan soal-soal ujian berikut ini.
 
 ## A. Term & Condition
-- ujian akan dilaksanakan selama 6 jam 20 menit
+- ujian akan dilaksanakan selama 4 jam 20 menit
     - 10 menit untuk *setup*
-    - 6 jam mengerjakan soal
+    - 4 jam mengerjakan soal
     - 10 menit *pull request*
 - selama mengerjakan ujian, siswa wajib **men-share seluruh screen** di **zoom** (khusus untuk kelas online) sampai ujian selesai
 - dilarang bekerjasama dalam mengerjakan soal ujian
